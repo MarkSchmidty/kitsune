@@ -842,7 +842,7 @@ CC_TWEETS_DAYS = 7  # Limit tweets to those from the last 7 days.
 # If any of these words show up in a tweet, it probably isn't
 # actionable, so don't add it to the AoA.
 CC_WORD_BLACKLIST = [
-    '#UninstallFirefox',
+    '#UninstallFirefox pocket',
 ]
 
 BITLY_API_URL = 'http://api.bitly.com/v3/shorten?callback=?'
